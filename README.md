@@ -9,5 +9,5 @@
 
 #### 2. Quantitative Finance
 
-* [Vanilla Option Valuation]()
+* [Vanilla Option Valuation](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/src/black_scholes.ipynb)
 * [Exotic Option Valuation](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/src/twin_neural_network.ipynb)
