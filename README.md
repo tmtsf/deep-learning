@@ -1,10 +1,10 @@
 # torch-dl
 
-* [Linear Regression]()
+* [Linear Regression](https://github.com/tmtsf/torch-dl/blob/main/code/01-deep_learning/linear_regression.ipynb)
 * [Logistic Regression]()
 * [Multilayer Perceptron]()
 * [Convolutional Neural Network]()
 
 
 * [Vanilla Option Valuation]()
-* [Exotic Option Valuation]()
+* [Exotic Option Valuation](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/differential_machine_learning.ipynb)
