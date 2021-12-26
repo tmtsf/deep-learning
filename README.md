@@ -7,4 +7,4 @@
 
 
 * [Vanilla Option Valuation]()
-* [Exotic Option Valuation](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/differential_machine_learning.ipynb)
+* [Exotic Option Valuation](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/twin_neural_network.ipynb)
