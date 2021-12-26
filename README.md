@@ -1,5 +1,3 @@
-# torch-dl
-
 ## Table of Contents
 
 #### 1. Deep Learning
