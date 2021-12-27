@@ -14,11 +14,11 @@ def value_call_option(strike, spot, maturity, dividend, discount, volatility):
   return discounting * (forward * scipy.stats.norm.cdf(d1)
                        - strike * scipy.stats.norm.cdf(d2))
 
-def synthetic_data():
+def synthetic_data(size=300000):
   random.seed(42)
   with open('../data/black_scholes.csv', 'w', newline='\n') as csvfile:
     saver = csv.writer(csvfile)
-    for i in range(10000):
+    for i in range(size):
       strike = random.uniform(7, 650)
       spot = random.uniform(10, 500)
       maturity = random.randint(1, 1095) / 365.
