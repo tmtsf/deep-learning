@@ -9,5 +9,7 @@
 
 #### 2. Quantitative Finance
 
-* [Vanilla Option Valuation](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/src/black_scholes.ipynb)
-* [Exotic Option Valuation](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/src/twin_neural_network.ipynb)
+* [Deep Learning Black-Scholes with PyTorch](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/src/black_scholes_i.ipynb)
+* [Deep Learning Black-Scholes with neural network built from scrach](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/src/black_scholes_ii.ipynb)
+* [Deep Learning Black-Scholes with closed-form Greeks](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/src/black_scholes_iii.ipynb)
+* [Deep Learning Black-Scholes with Monte Carlo](https://github.com/tmtsf/torch-dl/blob/main/code/02-quant_finance/src/black_scholes_iv.ipynb)
