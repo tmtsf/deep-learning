@@ -24,7 +24,7 @@ def value_call_option(strike, spot, maturity, dividend, discount, volatility):
   vega = spot * div_yield * scipy.stats.norm.pdf(d1) * math.sqrt(maturity)
   return price / strike, delta, theta / strike, dCalldQ / strike, dCalldR / strike, vega / strike
 
-def synthetic_data(size=40000):
+def synthetic_data(size=300000):
   random.seed(42)
   with open('../data/black_scholes_with_greeks.csv', 'w', newline='\n') as csvfile:
     saver = csv.writer(csvfile)
