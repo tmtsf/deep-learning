@@ -15,6 +15,8 @@
 
 #### 3. Differential Linear Regression
 
+* [Differential Regression](code/03-linear_regression/notebooks/differential_regression.ipynb)
+
 
 #### 4. Deep Learning Monte-Carlo Simulation
 
